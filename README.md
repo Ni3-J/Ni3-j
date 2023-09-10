@@ -1,9 +1,10 @@
 ### Hi there 👋, my name is Nitin Jena
-#### New to coding
-    🌱 I’m currently learning python 🐍 and JavaScript 🕹️
+#### Aspiring Quant
+#### Working as a Data analyst 🧾 📊 📈
+    🌱 I’m currently learning Python 🐍 and JavaScript 🕹️
     ⚡ Fun fact: Otaku☯️
 
 
-Skills: PYTHON / REACT / JS /NODE/ HTML / CSS
+Skills: DATA ANALYSIS / TABLEAU / BIG DATA / POWER BI/ NODE Js
 
 - 🔭 I’m currently working on this page. 
